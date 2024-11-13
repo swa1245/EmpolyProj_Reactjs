@@ -11,3 +11,12 @@ EMS is a React-based application built with Vite, providing fast development and
 - React v18.2.0
 - TailwindCSS v3.4.13
 - Remix-Icons
+
+## Key Objectives
+- Simplified Employee Management: Provides an intuitive interface for managing employee information such as names, roles,     
+  departments, and contact information.
+- Fast, Responsive UI: With Vite as the development framework, the application supports hot module replacement, allowing 
+  developers to see changes instantly during development.
+- Real-Time Validation and Feedback: Forms and fields include instant validation to ensure data integrity and provide 
+  immediate feedback to users.
+- Consistent Styling: TailwindCSS provides a clean, modern, and responsive design system that works seamlessly across devices.
